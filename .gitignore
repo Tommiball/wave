@@ -112,6 +112,9 @@ out
 # FuseBox cache
 .fusebox/
 
+# Angular cache
+.angular
+
 # DynamoDB Local files
 .dynamodb/
 
